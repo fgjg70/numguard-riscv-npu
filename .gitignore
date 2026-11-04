@@ -1,0 +1,13 @@
+# ??/????
+*.log
+*.jou
+*.wdb
+*.pb
+xsim.dir/
+Xil/
+.Xil/
+__pycache__/
+*.pyc
+# ???
+.vscode/
+.idea/
